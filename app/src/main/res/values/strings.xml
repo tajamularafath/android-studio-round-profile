@@ -6,4 +6,6 @@
     <string name="profilename">Ummar</string>
     <string name="editprofile">Edit profile</string>
     <string name="tv_share_profile">Share profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello Search fragment</string>
 </resources>
